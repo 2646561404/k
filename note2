@@ -1,1 +1,10 @@
-
+goal:1.了解如何写"优雅"的代码。
+  2.尝试学习一些能提高生产力的工具和技能。一切需要让手离开键盘的操作都应该想办法去除，学会盲打。
+IDE(integrated development environment):集成开发环境--重度编程，如Pycharm(Python),IDEA(Java)
+文本编辑器+插件生态=vscode，文本编辑器+高颜值=sublime--轻度编程
+Vim:一款命令行编辑工具。
+Emacs:与Vim齐名的经典编辑器
+Git:一款代码版本控制工具
+GitHub:基于Git的代码托管平台
+GNU Make:一款工程构建工具
+Docker:一款相较于虚拟机更轻量级的软件打包和环境部署工具
